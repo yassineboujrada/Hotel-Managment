@@ -8,15 +8,7 @@
             "name": "Launch App",
             "request": "launch",
             "mainClass": "Main.App",
-            "projectName": "Hotel-Management-System_58e12f15",
-            "vmArgs": "--module-path \"${workspaceFolder}\\lib\" --add-modules javafx.controls,javafx.fxml --add-exports javafx.base/com.sun.javafx.event=ALL-UNNAMED"
-        },
-        {
-            "type": "java",
-            "name": "Launch App",
-            "request": "launch",
-            "mainClass": "Main.App",
-            "projectName": "Hotel-Management-System_9a460e93",
+            "projectName": "Hotel-Managment_10db345a",
             "vmArgs": "--module-path \"${workspaceFolder}\\lib\" --add-modules javafx.controls,javafx.fxml --add-exports javafx.base/com.sun.javafx.event=ALL-UNNAMED"
         },
         {
